@@ -1,4 +1,4 @@
-# vue-music-player
+# cloud-music-player
 
 ## Project setup
 ```
